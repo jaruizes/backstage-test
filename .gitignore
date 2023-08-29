@@ -32,6 +32,9 @@ testem.log
 /e2e/*.js
 /e2e/*.map
 
+# backstage
+catalog-info.yaml
+
 #System Files
 .DS_Store
 Thumbs.db
