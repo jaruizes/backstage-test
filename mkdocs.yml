@@ -2,6 +2,8 @@ site_name: 'example-docs'
 
 nav:
   - Home: index.md
-
+  - Kafka:
+      - Topics design: 'kafka/topics-design.md'
+      - Topics naming: 'kafka/topics-naming.md'
 plugins:
   - techdocs-core
